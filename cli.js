@@ -1,0 +1,1 @@
+// chamar a função mdlinks para ser executada pela linha de comando
