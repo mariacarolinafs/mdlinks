@@ -1,1 +1,2 @@
-# mdlinks
+Uma comunidade open source nos propôs criar uma ferramenta, usando 
+[Node.js](https://nodejs.org/), que leia e analise arquivos no formato [Node.js](http://nodejs.org/), que leia e analise arquivos no formato links e mostrar algumas
