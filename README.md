@@ -11,12 +11,22 @@ Uma comunidade open source nos propôs criar uma ferramenta, usando Node.js, que
 ## Como instalar :
 Para instalar basta rodar em seu terminal a seguinte linha:
 
- $ npm install -g mariacarolinafs/mdlinks
+```shell
+​
+$ npm install -g mariacarolinafs/mdlinks
+​
+```
 
 ## Como fazer a utilização :
 Para utilizar basta indicar o caminho de seu arquivo.
 
- $ mdlinks ./some/example.md
+
+```shell
+​
+$ mdlinks ./some/example.md
+​
+```
+
 
  ## Considerações gerais do projeto :
 
